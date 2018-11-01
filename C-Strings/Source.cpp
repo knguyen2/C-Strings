@@ -122,4 +122,3 @@ void reversePhrase(char arr[100])
 	}
 }
 
-/* Write a function taht accepts a word, determines if it is a palindrome and returns true or false */
